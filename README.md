@@ -1,2 +1,13 @@
 # myShape_PMdoc
-documents for myShape
+
+1.命名规则：产品名版本号_<功能标注>.* 
+<br>ex. myShapeSTD1.2_UI优化.doc
+<br>2.产品线规划：
+<br>1）STD：标准版，通用功能，不区分Home，企业版和PRO
+<br>2）HOME:家庭版特有的内容
+<br>3）PRO：专业版特有内容
+<br>4）ENT:企业版特有内容。美食版可归于企业版分支
+<br>3.文章摘要：
+<br>1）在PRD开始建立摘要表
+<br>2）表内容包含：产品名，版本名，撰写人和时间，撰写内容摘要
+
